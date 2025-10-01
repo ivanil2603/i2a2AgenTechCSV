@@ -1,0 +1,12 @@
+# Ambiente Virtual
+.venv/
+
+# Arquivo de segredos
+.env
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Pasta de dados (o usuário fará upload pela interface)
+dados/
